@@ -1,0 +1,11 @@
+*.json
+*.csv
+*.pkl
+*.xlsx
+*.txt
+.ipynb_checkpoints/
+__pycache__
+.idea
+*.joblib
+*.png
+*.pdf
