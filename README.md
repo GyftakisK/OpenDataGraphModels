@@ -11,4 +11,5 @@ This repository contains Jupyter notebooks that complement chapter 4 of my thesi
  - **model_with_ranking_RankNet.ipynb**: Notebook used to train, fine-tune and evaluate a RankNet ranking ML algorithm using `train_df.csv` and `test_df.csv`.
  - **model_with_ranking_RankSVM.ipynb**: Notebook used to train, fine-tune and evaluate a RankSVM ranking ML algorithm using `train_df.csv` and `test_df.csv`.
  - **score_visual.ipynb**: Notebook used to visualize test scores of Logistic Regression, RankBoost, RankNet and RankSVM.
- 
+   
+Data are available upon request.
